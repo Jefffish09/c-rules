@@ -1,7 +1,9 @@
 # NAME: Self-Direct
 
+# Snapdrop
 DOMAIN-SUFFIX,snapdrop.net
 
+# Google
 DOMAIN,stun.l.google.com
 
 # Morningstar
@@ -9,8 +11,10 @@ DOMAIN-SUFFIX,morningstar.com
 DOMAIN-SUFFIX,morningstar.cn
 DOMAIN-SUFFIX,cn-morningstar.cn
 
+# DeepL
 DOMAIN-SUFFIX,deepl.com
 
+# Workday
 DOMAIN-SUFFIX,myworkday.com
 
 # Linksys
