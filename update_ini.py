@@ -52,16 +52,36 @@ with open("rules.ini", "w", encoding=encoding, errors="ignore") as w:
 print("Generating QX self_direct.list...")
 with open("self_direct.list", "r", encoding=encoding, errors="ignore") as r:
     self_direct_qx_content = r.read()
-self_direct_qx_content = self_direct_qx_content.replace("\n", ",Self-Direct\n")
-self_direct_qx_content = self_direct_qx_content.replace("# NAME: Self-Direct,Self-Direct", "# NAME: Self-Direct")
+self_direct_qx_content_list = self_direct_qx_content.split("\n")
+new_self_direct_qx_content_list = []
+for i in self_direct_qx_content_list:
+    if len(i):
+        if not i.startswith("#"):
+            i += ",Self-Direct\n"
+        else:
+            i += "\n"
+    else:
+        i += "\n"
+    new_self_direct_qx_content_list.append(i)
+self_direct_qx_content = "".join(new_self_direct_qx_content_list)
 qx_self_direct_path = qx_path / "self_direct.list"
 with qx_self_direct_path.open("w", encoding=encoding, errors="ignore") as w:
     w.write(self_direct_qx_content)
 print("Generating QX self_proxy.list...")
 with open("self_proxy.list", "r", encoding=encoding, errors="ignore") as r:
     self_proxy_qx_content = r.read()
-self_proxy_qx_content = self_proxy_qx_content.replace("\n", ",Self-Proxy\n")
-self_proxy_qx_content = self_proxy_qx_content.replace("# NAME: Self-Proxy,Self-Proxy", "# NAME: Self-Proxy")
+self_proxy_qx_content_list = self_proxy_qx_content.split("\n")
+new_self_proxy_qx_content_list = []
+for i in self_proxy_qx_content_list:
+    if len(i):
+        if not i.startswith("#"):
+            i += ",Self-Proxy\n"
+        else:
+            i += "\n"
+    else:
+        i += "\n"
+    new_self_proxy_qx_content_list.append(i)
+self_proxy_qx_content = "".join(new_self_proxy_qx_content_list)
 qx_self_proxy_path = qx_path / "self_proxy.list"
 with qx_self_proxy_path.open("w", encoding=encoding, errors="ignore") as w:
     w.write(self_proxy_qx_content)
