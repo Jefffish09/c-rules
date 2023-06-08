@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,linksys.com,Self-Direct
 DOMAIN-SUFFIX,lswf.net,Self-Direct
 DOMAIN-SUFFIX,splunkcloud.com,Self-Direct
 
+# DDNS
 DOMAIN-SUFFIX,dyndns.com,Self-Direct
 
 # Jsdelivr
