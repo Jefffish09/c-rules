@@ -1,15 +1,29 @@
 # NAME: Self-Direct
+
 DOMAIN-SUFFIX,snapdrop.net
+
 DOMAIN,stun.l.google.com
+
+# Morningstar
 DOMAIN-SUFFIX,morningstar.com
 DOMAIN-SUFFIX,morningstar.cn
 DOMAIN-SUFFIX,cn-morningstar.cn
+
 DOMAIN-SUFFIX,deepl.com
+
 DOMAIN-SUFFIX,myworkday.com
+
+# Linksys
 DOMAIN-SUFFIX,linksyssmartwifi.com
 DOMAIN-SUFFIX,linksys.com
 DOMAIN-SUFFIX,lswf.net
 DOMAIN-SUFFIX,splunkcloud.com
 DOMAIN-SUFFIX,dyndns.com
+
+# Jsdelivr
+DOMAIN-SUFFIX,esm.run
+DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,jsdelivr.net
+
+# ghproxy
 DOMAIN-SUFFIX,ghproxy.com
