@@ -1,5 +1,6 @@
 
 from datetime import datetime
+from pathlib import Path
 from urllib.request import urlopen
 
 
@@ -14,6 +15,12 @@ encoding = "utf-8"
 original_ini_url = f"{gp}https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"
 repo_name = "c-rules"
 custom_proxy_group_format_string = "`select`[]🎥 奈飞节点`[]🚀 节点选择`[]♻️ 自动选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🚀 手动切换`[]DIRECT"
+current_path = Path("update_ini.py").parent.absolute()
+
+# Check if QX folder existing
+qx_path = current_path / "QX"
+if not qx_path.is_dir():
+    qx_path.mkdir()
 
 # Direct
 self_direct_list_url = f"{gp}https://raw.githubusercontent.com/Jefffish09/{repo_name}/main/self_direct.list"
@@ -41,5 +48,22 @@ ini_2 = f"{ini_1[:loc_2]}{custom_proxy_group_direct}\n{custom_proxy_group_proxy}
 print("Generating the new .ini file...")
 with open("rules.ini", "w", encoding=encoding, errors="ignore") as w:
     w.write(ini_2)
+
+print("Generating QX self_direct.list...")
+with open("self_direct.list", "r", encoding=encoding, errors="ignore") as r:
+    self_direct_qx_content = r.read()
+self_direct_qx_content = self_direct_qx_content.replace("\n", ",Self-Direct\n")
+self_direct_qx_content = self_direct_qx_content.replace("# NAME: Self-Direct,Self-Direct", "# NAME: Self-Direct")
+qx_self_direct_path = qx_path / "self_direct.list"
+with qx_self_direct_path.open("w", encoding=encoding, errors="ignore") as w:
+    w.write(self_direct_qx_content)
+print("Generating QX self_proxy.list...")
+with open("self_proxy.list", "r", encoding=encoding, errors="ignore") as r:
+    self_proxy_qx_content = r.read()
+self_proxy_qx_content = self_proxy_qx_content.replace("\n", ",Self-Proxy\n")
+self_proxy_qx_content = self_proxy_qx_content.replace("# NAME: Self-Proxy,Self-Proxy", "# NAME: Self-Proxy")
+qx_self_proxy_path = qx_path / "self_proxy.list"
+with qx_self_proxy_path.open("w", encoding=encoding, errors="ignore") as w:
+    w.write(self_proxy_qx_content)
 
 print("All finished!")
