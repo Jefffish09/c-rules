@@ -1,6 +1,8 @@
 # c-rules
 
-This rule is based on [ACL4SSR_Online_Full_MultiMode.ini](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini).
+This rule is based on [ACL4SSR_Online_Full_MultiMode.ini](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini). 
+
+This repository generates the latest rule files (both ```.list``` and ```.ini``` files) automatically every day.
 
 | Source   | C - ini                                                                                                                                                                            | QX - Direct                                                                                                                                                                                            | QX - Proxy                                                                                                                                                                                           |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
