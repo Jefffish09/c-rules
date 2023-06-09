@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,deepl.com,Self-Direct
 
 # Workday
 DOMAIN-SUFFIX,myworkday.com,Self-Direct
+DOMAIN-SUFFIX,myworkdaycdn.com.cn,Self-Direct
 
 # Linksys
 DOMAIN-SUFFIX,linksyssmartwifi.com,Self-Direct
