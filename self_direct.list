@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,deepl.com
 
 # Workday
 DOMAIN-SUFFIX,myworkday.com
+DOMAIN-SUFFIX,myworkdaycdn.com.cn
 
 # Linksys
 DOMAIN-SUFFIX,linksyssmartwifi.com
