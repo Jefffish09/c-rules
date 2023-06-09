@@ -1,8 +1,4 @@
 # NAME: Self-Proxy
 
-# Github
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,github.io
-
 # Google
 DOMAIN-SUFFIX,googleadservices.com
