@@ -35,3 +35,6 @@ DOMAIN-SUFFIX,jsdelivr.net,Self-Direct
 # ghproxy
 DOMAIN-SUFFIX,ghproxy.com,Self-Direct
 
+# mirrors
+DOMAIN-SUFFIX,tsinghua.edu.cn,Self-Direct
+
