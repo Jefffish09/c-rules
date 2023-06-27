@@ -27,11 +27,6 @@ DOMAIN-SUFFIX,splunkcloud.com,Self-Direct
 # DDNS
 DOMAIN-SUFFIX,dyndns.com,Self-Direct
 
-# Jsdelivr
-DOMAIN-SUFFIX,esm.run,Self-Direct
-DOMAIN-SUFFIX,jsdelivr.com,Self-Direct
-DOMAIN-SUFFIX,jsdelivr.net,Self-Direct
-
 # ghproxy
 DOMAIN-SUFFIX,ghproxy.com,Self-Direct
 
