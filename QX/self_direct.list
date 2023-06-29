@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,weixin.com,Self-Direct
 DOMAIN-SUFFIX,qq.com,Self-Direct
 DOMAIN-SUFFIX,weixinbridge.com,Self-Direct
 DOMAIN-SUFFIX,weixinsxy.com,Self-Direct
+DOMAIN-SUFFIX,tdnsv6.com,Self-Direct
 IP-CIDR,101.32.104.4/32,no-resolve,Self-Direct
 IP-CIDR,101.32.104.41/32,no-resolve,Self-Direct
 IP-CIDR,101.32.104.56/32,no-resolve,Self-Direct
