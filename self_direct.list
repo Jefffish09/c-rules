@@ -57,3 +57,6 @@ IP-CIDR,129.226.107.244/32,no-resolve
 IP-CIDR,129.226.3.47/32,no-resolve
 IP-CIDR,162.62.163.63/32,no-resolve
 IP-CIDR,43.156.222.0/24,no-resolve
+
+# 萤石
+DOMAIN-SUFFIX,ys7.com
