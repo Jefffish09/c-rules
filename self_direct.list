@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,weixinsxy.com
+DOMAIN-SUFFIX,tdnsv6.com
 IP-CIDR,101.32.104.4/32,no-resolve
 IP-CIDR,101.32.104.41/32,no-resolve
 IP-CIDR,101.32.104.56/32,no-resolve
