@@ -60,4 +60,5 @@ IP-CIDR,43.156.222.0/24,no-resolve,Self-Direct
 
 # 萤石
 DOMAIN-SUFFIX,ys7.com,Self-Direct
+DOMAIN-SUFFIX,umengcloud.com,Self-Direct
 
