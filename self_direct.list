@@ -32,3 +32,7 @@ DOMAIN-SUFFIX,ghproxy.com
 
 # mirrors
 DOMAIN-SUFFIX,tsinghua.edu.cn
+
+# Wechat
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.cn
