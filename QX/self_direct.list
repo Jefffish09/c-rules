@@ -33,3 +33,7 @@ DOMAIN-SUFFIX,ghproxy.com,Self-Direct
 # mirrors
 DOMAIN-SUFFIX,tsinghua.edu.cn,Self-Direct
 
+# Wechat
+DOMAIN-SUFFIX,qlogo.cn,Self-Direct
+DOMAIN-SUFFIX,qpic.cn,Self-Direct
+
