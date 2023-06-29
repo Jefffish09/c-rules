@@ -50,6 +50,9 @@ DOMAIN-SUFFIX,tdnsv6.com,Self-Direct
 # 萤石
 DOMAIN-SUFFIX,ys7.com,Self-Direct
 
+# PDD
+DOMAIN-SUFFIX,pddpic.com,Self-Direct
+
 # Others
 DOMAIN-SUFFIX,ccddn4.icu,Self-Direct
 DOMAIN-SUFFIX,clashcloud.tech,Self-Direct
