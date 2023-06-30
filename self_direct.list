@@ -334,6 +334,10 @@ DOMAIN-SUFFIX,yixun.com
 DOMAIN-SUFFIX,yiyaojd.com
 DOMAIN-SUFFIX,yizhitou.com
 
+# Adguard
+DOMAIN-SUFFIX,adguard-dns.io
+DOMAIN-SUFFIX,adtidy.org
+
 # Others
 DOMAIN-SUFFIX,ccddn4.icu
 DOMAIN-SUFFIX,clashcloud.tech
