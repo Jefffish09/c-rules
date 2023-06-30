@@ -50,6 +50,29 @@ DOMAIN-SUFFIX,tdnsv6.com,Self-Direct
 # 萤石
 DOMAIN-SUFFIX,ys7.com,Self-Direct
 
+# AliPay
+DOMAIN-SUFFIX,alipay,Self-Direct
+DOMAIN-SUFFIX,alipay-corp.com,Self-Direct
+DOMAIN-SUFFIX,alipay-eco.com,Self-Direct
+DOMAIN-SUFFIX,alipay-inc.com,Self-Direct
+DOMAIN-SUFFIX,alipay-traffic.com,Self-Direct
+DOMAIN-SUFFIX,alipay.cn,Self-Direct
+DOMAIN-SUFFIX,alipay.com,Self-Direct
+DOMAIN-SUFFIX,alipay.com.cn,Self-Direct
+DOMAIN-SUFFIX,alipay.hk,Self-Direct
+DOMAIN-SUFFIX,alipay.net,Self-Direct
+DOMAIN-SUFFIX,alipaydesign.com,Self-Direct
+DOMAIN-SUFFIX,alipaydev.com,Self-Direct
+DOMAIN-SUFFIX,alipaydns.com,Self-Direct
+DOMAIN-SUFFIX,alipayeshop.com,Self-Direct
+DOMAIN-SUFFIX,alipaylog.com,Self-Direct
+DOMAIN-SUFFIX,alipaymo.com,Self-Direct
+DOMAIN-SUFFIX,alipayobjects.com,Self-Direct
+DOMAIN-SUFFIX,alipayplus.com,Self-Direct
+DOMAIN-SUFFIX,ifaa.org.cn,Self-Direct
+DOMAIN-SUFFIX,luohanacademy.com,Self-Direct
+DOMAIN-SUFFIX,sinopayment.com.cn,Self-Direct
+
 # PDD
 DOMAIN-SUFFIX,pddpic.com,Self-Direct
 DOMAIN-SUFFIX,pinduoduo.com,Self-Direct
