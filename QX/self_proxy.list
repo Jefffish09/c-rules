@@ -3,3 +3,6 @@
 # Google
 DOMAIN-SUFFIX,googleadservices.com,Self-Proxy
 
+# Threads
+DOMAIN-SUFFIX,threads.net,Self-Proxy
+
