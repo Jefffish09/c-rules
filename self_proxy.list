@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,googleadservices.com
 
 # Threads
 DOMAIN-SUFFIX,threads.net
+
+# serverfault
+DOMAIN-SUFFIX,serverfault.com
