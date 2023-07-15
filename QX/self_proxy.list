@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,threads.net,Self-Proxy
 # serverfault
 DOMAIN-SUFFIX,serverfault.com,Self-Proxy
 
+# V2EX
+DOMAIN-SUFFIX,v2ex.co,Self-Proxy
+
