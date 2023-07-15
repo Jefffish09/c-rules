@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,threads.net
 
 # serverfault
 DOMAIN-SUFFIX,serverfault.com
+
+# V2EX
+DOMAIN-SUFFIX,v2ex.co
