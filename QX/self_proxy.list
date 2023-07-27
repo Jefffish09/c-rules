@@ -12,3 +12,32 @@ DOMAIN-SUFFIX,serverfault.com,Self-Proxy
 # V2EX
 DOMAIN-SUFFIX,v2ex.co,Self-Proxy
 
+# Vercel
+DOMAIN-SUFFIX,err.sh,Self-Proxy
+DOMAIN-SUFFIX,hyper.is,Self-Proxy
+DOMAIN-SUFFIX,nextjs.org,Self-Proxy
+DOMAIN-SUFFIX,now.sh,Self-Proxy
+DOMAIN-SUFFIX,static.fun,Self-Proxy
+DOMAIN-SUFFIX,title.sh,Self-Proxy
+DOMAIN-SUFFIX,turborepo.org,Self-Proxy
+DOMAIN-SUFFIX,vercel-analytics.com,Self-Proxy
+DOMAIN-SUFFIX,vercel-dns.com,Self-Proxy
+DOMAIN-SUFFIX,vercel-insights.com,Self-Proxy
+DOMAIN-SUFFIX,vercel-status.com,Self-Proxy
+DOMAIN-SUFFIX,vercel.app,Self-Proxy
+DOMAIN-SUFFIX,vercel.blog,Self-Proxy
+DOMAIN-SUFFIX,vercel.com,Self-Proxy
+DOMAIN-SUFFIX,vercel.events,Self-Proxy
+DOMAIN-SUFFIX,vercel.link,Self-Proxy
+DOMAIN-SUFFIX,vercel.live,Self-Proxy
+DOMAIN-SUFFIX,vercel.pub,Self-Proxy
+DOMAIN-SUFFIX,vercel.sh,Self-Proxy
+DOMAIN-SUFFIX,vercel.store,Self-Proxy
+DOMAIN-SUFFIX,zeit-world.co.uk,Self-Proxy
+DOMAIN-SUFFIX,zeit-world.com,Self-Proxy
+DOMAIN-SUFFIX,zeit-world.net,Self-Proxy
+DOMAIN-SUFFIX,zeit-world.org,Self-Proxy
+DOMAIN-SUFFIX,zeit.co,Self-Proxy
+DOMAIN-SUFFIX,zeit.sh,Self-Proxy
+DOMAIN-SUFFIX,zeitworld.com,Self-Proxy
+
