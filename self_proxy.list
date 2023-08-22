@@ -40,3 +40,6 @@ DOMAIN-SUFFIX,zeit-world.org
 DOMAIN-SUFFIX,zeit.co
 DOMAIN-SUFFIX,zeit.sh
 DOMAIN-SUFFIX,zeitworld.com
+
+# NSFW
+DOMAIN-SUFFIX,madou.club
