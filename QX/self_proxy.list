@@ -41,3 +41,6 @@ DOMAIN-SUFFIX,zeit.co,Self-Proxy
 DOMAIN-SUFFIX,zeit.sh,Self-Proxy
 DOMAIN-SUFFIX,zeitworld.com,Self-Proxy
 
+# NSFW
+DOMAIN-SUFFIX,madou.club,Self-Proxy
+
