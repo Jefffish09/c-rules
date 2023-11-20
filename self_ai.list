@@ -1,61 +1,22 @@
-# NAME: Self-Direct
+# NAME: Self-AI
 
-# Snapdrop
-DOMAIN-SUFFIX,snapdrop.net
+# OpenAI
+DOMAIN,ai.cn
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-KEYWORD,openai
 
-# Google
-DOMAIN,stun.l.google.com
-
-# Morningstar
-DOMAIN-SUFFIX,morningstar.com
-DOMAIN-SUFFIX,morningstar.cn
-DOMAIN-SUFFIX,cn-morningstar.cn
-
-# DeepL
-DOMAIN-SUFFIX,deepl.com
-
-# Workday
-DOMAIN-SUFFIX,myworkday.com
-DOMAIN-SUFFIX,myworkdaycdn.com.cn
-
-# Linksys
-DOMAIN-SUFFIX,linksyssmartwifi.com
-DOMAIN-SUFFIX,linksys.com
-DOMAIN-SUFFIX,lswf.net
-DOMAIN-SUFFIX,splunkcloud.com
-
-# DDNS
-DOMAIN-SUFFIX,dyndns.com
-
-# ghproxy
-DOMAIN-SUFFIX,ghproxy.com
-
-# mirrors
-DOMAIN-SUFFIX,tsinghua.edu.cn
-
-# Wechat
-DOMAIN-SUFFIX,qlogo.cn
-DOMAIN-SUFFIX,qpic.cn
-DOMAIN-SUFFIX,servicewechat.com
-DOMAIN-SUFFIX,tenpay.com
-DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,wechatlegal.net
-DOMAIN-SUFFIX,wechatpay.com
-DOMAIN-SUFFIX,weixin.com
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,weixinbridge.com
-DOMAIN-SUFFIX,weixinsxy.com
-DOMAIN-SUFFIX,tdnsv6.com
-
-# 萤石
-DOMAIN-SUFFIX,ys7.com
-
-# PDD
-DOMAIN-SUFFIX,pddpic.com
-DOMAIN-SUFFIX,pinduoduo.com
-DOMAIN-SUFFIX,pinduoduo.net
-DOMAIN-SUFFIX,yangkeduo.com
-
-# Others
-DOMAIN-SUFFIX,ccddn4.icu
-DOMAIN-SUFFIX,clashcloud.tech
+# Claude
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
