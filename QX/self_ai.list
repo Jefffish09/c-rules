@@ -1,0 +1,24 @@
+# NAME: Self-AI
+
+# OpenAI
+DOMAIN,ai.cn,Self-AI
+DOMAIN-SUFFIX,ai.com,Self-AI
+DOMAIN-SUFFIX,auth0.com,Self-AI
+DOMAIN-SUFFIX,challenges.cloudflare.com,Self-AI
+DOMAIN-SUFFIX,client-api.arkoselabs.com,Self-AI
+DOMAIN-SUFFIX,events.statsigapi.net,Self-AI
+DOMAIN-SUFFIX,featuregates.org,Self-AI
+DOMAIN-SUFFIX,identrust.com,Self-AI
+DOMAIN-SUFFIX,intercom.io,Self-AI
+DOMAIN-SUFFIX,intercomcdn.com,Self-AI
+DOMAIN-SUFFIX,sentry.io,Self-AI
+DOMAIN-SUFFIX,stripe.com,Self-AI
+DOMAIN-KEYWORD,openai,Self-AI
+
+# Claude
+DOMAIN,cdn.usefathom.com,Self-AI
+DOMAIN-SUFFIX,anthropic.com,Self-AI
+DOMAIN-SUFFIX,claude.ai,Self-AI
+
+# Poe
+DOMAIN-SUFFIX,poe.com,Self-AI
