@@ -2,7 +2,9 @@
 
 This rule is based on [ACL4SSR_Online_Full_MultiMode.ini](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini). 
 
-This repository generates the latest rule files (both ```.list``` and ```.ini``` files) automatically every day.
+~~This repository generates the latest rule files (both ```.list``` and ```.ini``` files) automatically every day.~~
+
+Remember to modify the ```.list``` files in both the **root** directory and the **QX** directory simultaneously.
 
 | Source   | C - ini                                                                                                                                                                            | QX - Direct                                                                                                                                                                                            | QX - Proxy                                                                                                                                                                                           |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
