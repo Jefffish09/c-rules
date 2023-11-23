@@ -47,3 +47,6 @@ DOMAIN-SUFFIX,microsoftpartnersolutions.com,Self-AI
 DOMAIN-SUFFIX,msunlimitedcloudsummit.com,Self-AI
 DOMAIN-SUFFIX,renovacionoffice.com,Self-AI
 DOMAIN-SUFFIX,sprinklesapp.com,Self-AI
+
+# Bard
+DOMAIN-SUFFIX,bard.google.com,Self-AI
