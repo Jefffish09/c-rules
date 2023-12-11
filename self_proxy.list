@@ -41,6 +41,9 @@ DOMAIN-SUFFIX,zeit.co
 DOMAIN-SUFFIX,zeit.sh
 DOMAIN-SUFFIX,zeitworld.com
 
+# Upstash
+DOMAIN-SUFFIX,upstash.com
+
 # NSFW
 DOMAIN-SUFFIX,madou.club
 DOMAIN-SUFFIX,veed.io
