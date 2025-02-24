@@ -1,47 +1,115 @@
 # NAME: Self-Proxy
 
 # Google
-DOMAIN-SUFFIX,googleadservices.com,Self-Proxy
+DOMAIN-SUFFIX,googleadservices.com
+
+# Docker
+DOMAIN,d1q6f0aelx0por.cloudfront.net
+DOMAIN,d2wy8f7a9ursnm.cloudfront.net
+DOMAIN,d36jcksde1wxzq.cloudfront.net
+DOMAIN-SUFFIX,compose-spec.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerhub.com
 
 # Threads
-DOMAIN-SUFFIX,threads.net,Self-Proxy
+DOMAIN-SUFFIX,threads.net
 
 # serverfault
-DOMAIN-SUFFIX,serverfault.com,Self-Proxy
+DOMAIN-SUFFIX,serverfault.com
 
 # V2EX
-DOMAIN-SUFFIX,v2ex.co,Self-Proxy
+DOMAIN-SUFFIX,v2ex.co
 
 # Vercel
-DOMAIN-SUFFIX,err.sh,Self-Proxy
-DOMAIN-SUFFIX,hyper.is,Self-Proxy
-DOMAIN-SUFFIX,nextjs.org,Self-Proxy
-DOMAIN-SUFFIX,now.sh,Self-Proxy
-DOMAIN-SUFFIX,static.fun,Self-Proxy
-DOMAIN-SUFFIX,title.sh,Self-Proxy
-DOMAIN-SUFFIX,turborepo.org,Self-Proxy
-DOMAIN-SUFFIX,vercel-analytics.com,Self-Proxy
-DOMAIN-SUFFIX,vercel-dns.com,Self-Proxy
-DOMAIN-SUFFIX,vercel-insights.com,Self-Proxy
-DOMAIN-SUFFIX,vercel-status.com,Self-Proxy
-DOMAIN-SUFFIX,vercel.app,Self-Proxy
-DOMAIN-SUFFIX,vercel.blog,Self-Proxy
-DOMAIN-SUFFIX,vercel.com,Self-Proxy
-DOMAIN-SUFFIX,vercel.events,Self-Proxy
-DOMAIN-SUFFIX,vercel.link,Self-Proxy
-DOMAIN-SUFFIX,vercel.live,Self-Proxy
-DOMAIN-SUFFIX,vercel.pub,Self-Proxy
-DOMAIN-SUFFIX,vercel.sh,Self-Proxy
-DOMAIN-SUFFIX,vercel.store,Self-Proxy
-DOMAIN-SUFFIX,zeit-world.co.uk,Self-Proxy
-DOMAIN-SUFFIX,zeit-world.com,Self-Proxy
-DOMAIN-SUFFIX,zeit-world.net,Self-Proxy
-DOMAIN-SUFFIX,zeit-world.org,Self-Proxy
-DOMAIN-SUFFIX,zeit.co,Self-Proxy
-DOMAIN-SUFFIX,zeit.sh,Self-Proxy
-DOMAIN-SUFFIX,zeitworld.com,Self-Proxy
+DOMAIN-SUFFIX,err.sh
+DOMAIN-SUFFIX,hyper.is
+DOMAIN-SUFFIX,nextjs.org
+DOMAIN-SUFFIX,now.sh
+DOMAIN-SUFFIX,static.fun
+DOMAIN-SUFFIX,title.sh
+DOMAIN-SUFFIX,turborepo.org
+DOMAIN-SUFFIX,vercel-analytics.com
+DOMAIN-SUFFIX,vercel-dns.com
+DOMAIN-SUFFIX,vercel-insights.com
+DOMAIN-SUFFIX,vercel-status.com
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,vercel.blog
+DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,vercel.events
+DOMAIN-SUFFIX,vercel.link
+DOMAIN-SUFFIX,vercel.live
+DOMAIN-SUFFIX,vercel.pub
+DOMAIN-SUFFIX,vercel.sh
+DOMAIN-SUFFIX,vercel.store
+DOMAIN-SUFFIX,zeit-world.co.uk
+DOMAIN-SUFFIX,zeit-world.com
+DOMAIN-SUFFIX,zeit-world.net
+DOMAIN-SUFFIX,zeit-world.org
+DOMAIN-SUFFIX,zeit.co
+DOMAIN-SUFFIX,zeit.sh
+DOMAIN-SUFFIX,zeitworld.com
+
+# Upstash
+DOMAIN-SUFFIX,upstash.com
+
+# Zoom
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zoomgov.com
 
 # NSFW
-DOMAIN-SUFFIX,madou.club,Self-Proxy
-DOMAIN-SUFFIX,veed.io,Self-Proxy
+DOMAIN-SUFFIX,madou.club
+DOMAIN-SUFFIX,veed.io
+DOMAIN-KEYWORD,porn
+DOMAIN-SUFFIX,8teenxxx.com
+DOMAIN-SUFFIX,ahcdn.com
+DOMAIN-SUFFIX,bcvcdn.com
+DOMAIN-SUFFIX,bongacams.com
+DOMAIN-SUFFIX,chaturbate.com
+DOMAIN-SUFFIX,dditscdn.com
+DOMAIN-SUFFIX,livejasmin.com
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
+DOMAIN-SUFFIX,rdtcdn.com
+DOMAIN-SUFFIX,redtube.com
+DOMAIN-SUFFIX,sb-cd.com
+DOMAIN-SUFFIX,spankbang.com
+DOMAIN-SUFFIX,t66y.com
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN-SUFFIX,xnxx-cdn.com
+DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,ypncdn.com
 
+# Discord
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+
+# Whatsapp
+DOMAIN-KEYWORD,whatsapp
+IP-CIDR,18.194.0.0/15,no-resolve
+IP-CIDR,34.224.0.0/12,no-resolve
+IP-CIDR,50.22.198.204/30,no-resolve
+IP-CIDR,54.242.0.0/15,no-resolve
+IP-CIDR,69.171.235.0/16,no-resolve
+IP-CIDR,75.126.150.0/16,no-resolve
+IP-CIDR,108.168.174.0/16,no-resolve
+IP-CIDR,158.85.5.192/27,no-resolve
+IP-CIDR,158.85.46.128/27,no-resolve
+IP-CIDR,158.85.224.160/27,no-resolve
+IP-CIDR,173.192.222.160/27,no-resolve
+IP-CIDR,173.192.231.32/27,no-resolve
+IP-CIDR,174.37.243.0/16,no-resolve
+IP-CIDR,184.173.128.0/17,no-resolve
+IP-CIDR,208.43.122.128/27,no-resolve
+
+# TeraBox
+DOMAIN-SUFFIX,terabox.com
+DOMAIN-SUFFIX,teraboxcdn.com
