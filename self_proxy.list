@@ -51,3 +51,11 @@ DOMAIN-SUFFIX,zoomgov.com
 # NSFW
 DOMAIN-SUFFIX,madou.club
 DOMAIN-SUFFIX,veed.io
+
+# Discord
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
