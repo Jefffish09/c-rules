@@ -44,6 +44,10 @@ DOMAIN-SUFFIX,zeitworld.com
 # Upstash
 DOMAIN-SUFFIX,upstash.com
 
+# Zoom
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zoomgov.com
+
 # NSFW
 DOMAIN-SUFFIX,madou.club
 DOMAIN-SUFFIX,veed.io
