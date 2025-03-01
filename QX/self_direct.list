@@ -45,15 +45,15 @@ DOMAIN-SUFFIX,wechatpay.com,Self-Direct
 DOMAIN-SUFFIX,weixin.com,Self-Direct
 DOMAIN-SUFFIX,weixinbridge.com,Self-Direct
 DOMAIN-SUFFIX,weixinsxy.com,Self-Direct
-IP-CIDR,101.32.104.4/32,no-resolve,Self-Direct
-IP-CIDR,101.32.104.41/32,no-resolve,Self-Direct
-IP-CIDR,101.32.104.56/32,no-resolve,Self-Direct
-IP-CIDR,101.32.118.25/32,no-resolve,Self-Direct
-IP-CIDR,101.32.133.16/32,no-resolve,Self-Direct
-IP-CIDR,101.32.133.53/32,no-resolve,Self-Direct
-IP-CIDR,101.32.133.209/32,no-resolve,Self-Direct
-IP-CIDR,129.226.3.47/32,no-resolve,Self-Direct
-IP-CIDR,129.226.107.244/32,no-resolve,Self-Direct
+IP-CIDR,101.32.104.4/32,Self-Direct
+IP-CIDR,101.32.104.41/32,Self-Direct
+IP-CIDR,101.32.104.56/32,Self-Direct
+IP-CIDR,101.32.118.25/32,Self-Direct
+IP-CIDR,101.32.133.16/32,Self-Direct
+IP-CIDR,101.32.133.53/32,Self-Direct
+IP-CIDR,101.32.133.209/32,Self-Direct
+IP-CIDR,129.226.3.47/32,Self-Direct
+IP-CIDR,129.226.107.244/32,Self-Direct
 
 # 萤石
 DOMAIN-SUFFIX,ys7.com,Self-Direct
