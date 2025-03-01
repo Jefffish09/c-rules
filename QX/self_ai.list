@@ -1,27 +1,27 @@
 # NAME: Self-AI
 
 # OpenAI
-DOMAIN,ai.cn
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,client-api.arkoselabs.com
-DOMAIN-SUFFIX,events.statsigapi.net
-DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-KEYWORD,openai
+DOMAIN,ai.cn,Self-AI
+DOMAIN-SUFFIX,ai.com,Self-AI
+DOMAIN-SUFFIX,auth0.com,Self-AI
+DOMAIN-SUFFIX,challenges.cloudflare.com,Self-AI
+DOMAIN-SUFFIX,client-api.arkoselabs.com,Self-AI
+DOMAIN-SUFFIX,events.statsigapi.net,Self-AI
+DOMAIN-SUFFIX,featuregates.org,Self-AI
+DOMAIN-SUFFIX,identrust.com,Self-AI
+DOMAIN-SUFFIX,intercom.io,Self-AI
+DOMAIN-SUFFIX,intercomcdn.com,Self-AI
+DOMAIN-SUFFIX,sentry.io,Self-AI
+DOMAIN-SUFFIX,stripe.com,Self-AI
+DOMAIN-KEYWORD,openai,Self-AI
 
 # Claude
-DOMAIN,cdn.usefathom.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
+DOMAIN,cdn.usefathom.com,Self-AI
+DOMAIN-SUFFIX,anthropic.com,Self-AI
+DOMAIN-SUFFIX,claude.ai,Self-AI
 
 # Poe
-DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poe.com,Self-AI
 
 # Bard
-DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,bard.google.com,Self-AI
