@@ -23,6 +23,12 @@ DOMAIN-SUFFIX,claude.ai
 # Poe
 DOMAIN-SUFFIX,poe.com
 
-# Bard
+# Gemini
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,labs.google.dev
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,clients6.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,bard.google.com
-
+DOMAIN,alkalimakersuite-pa.clients6.google.com
