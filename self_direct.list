@@ -129,6 +129,13 @@ DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
 
+# Xiaohongshu
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,redbascket.com
+DOMAIN-SUFFIX,fengkongcloud.com
+
 # Others
 DOMAIN-SUFFIX,ccddn4.icu
 DOMAIN-SUFFIX,clashcloud.tech
