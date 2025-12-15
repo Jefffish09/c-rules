@@ -129,6 +129,13 @@ DOMAIN-SUFFIX,xiami.net,Self-Direct
 DOMAIN-SUFFIX,ykimg.com,Self-Direct
 DOMAIN-SUFFIX,youku.com,Self-Direct
 
+# Xiaohongshu
+DOMAIN-SUFFIX,xiaohongshu.com,Self-Direct
+DOMAIN-SUFFIX,xhscdn.com,Self-Direct
+DOMAIN-SUFFIX,xhscdn.net,Self-Direct
+DOMAIN-SUFFIX,redbascket.com,Self-Direct
+DOMAIN-SUFFIX,fengkongcloud.com,Self-Direct
+
 # Others
 DOMAIN-SUFFIX,ccddn4.icu,Self-Direct
 DOMAIN-SUFFIX,clashcloud.tech,Self-Direct
