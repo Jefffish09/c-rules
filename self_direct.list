@@ -1,5 +1,11 @@
 # NAME: Self-Direct
 
+# OneDrive
+HOST-SUFFIX,storage.live.com
+HOST-SUFFIX,1drv.com
+HOST-SUFFIX,sharepoint.com
+HOST-SUFFIX,api.onedrive.com
+
 # Snapdrop
 DOMAIN-SUFFIX,snapdrop.net
 
@@ -142,3 +148,4 @@ DOMAIN-SUFFIX,clashcloud.tech
 DOMAIN-SUFFIX,linksys.com
 DOMAIN-SUFFIX,linksyssmartwifi.com
 DOMAIN,finds.synology.com
+
