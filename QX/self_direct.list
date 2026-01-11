@@ -1,5 +1,11 @@
 # NAME: Self-Direct
 
+# OneDrive
+HOST-SUFFIX,storage.live.com,Self-Direct
+HOST-SUFFIX,1drv.com,Self-Direct
+HOST-SUFFIX,sharepoint.com,Self-Direct
+HOST-SUFFIX,api.onedrive.com,Self-Direct
+
 # Snapdrop
 DOMAIN-SUFFIX,snapdrop.net,Self-Direct
 
