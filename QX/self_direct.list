@@ -137,10 +137,10 @@ DOMAIN-SUFFIX,redbascket.com,Self-Direct
 DOMAIN-SUFFIX,fengkongcloud.com,Self-Direct
 
 # OneDrive
-HOST-SUFFIX,storage.live.com,Self-Direct
-HOST-SUFFIX,1drv.com,Self-Direct
-HOST-SUFFIX,sharepoint.com,Self-Direct
-HOST-SUFFIX,api.onedrive.com,Self-Direct
+DOMAIN-SUFFIX,storage.live.com,Self-Direct
+DOMAIN-SUFFIX,1drv.com,Self-Direct
+DOMAIN-SUFFIX,sharepoint.com,Self-Direct
+DOMAIN-SUFFIX,api.onedrive.com,Self-Direct
 
 # Others
 DOMAIN-SUFFIX,ccddn4.icu,Self-Direct
