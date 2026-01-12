@@ -137,10 +137,10 @@ DOMAIN-SUFFIX,redbascket.com
 DOMAIN-SUFFIX,fengkongcloud.com
 
 # OneDrive
-HOST-SUFFIX,storage.live.com
-HOST-SUFFIX,1drv.com
-HOST-SUFFIX,sharepoint.com
-HOST-SUFFIX,api.onedrive.com
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,api.onedrive.com
 
 # Others
 DOMAIN-SUFFIX,ccddn4.icu
@@ -150,3 +150,4 @@ DOMAIN-SUFFIX,linksyssmartwifi.com
 DOMAIN,finds.synology.com
 DOMAIN-SUFFIX,fishfishlab.top
 DOMAIN-SUFFIX,jeffreyyu.top
+
