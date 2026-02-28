@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,splunkcloud.com
 
 # DDNS
 DOMAIN-SUFFIX,dyndns.com
+DOMAIN-SUFFIX,ipify.org
 
 # ghproxy
 DOMAIN-SUFFIX,ghproxy.com
@@ -30,111 +31,8 @@ DOMAIN-SUFFIX,ghproxy.com
 # mirrors
 DOMAIN-SUFFIX,tsinghua.edu.cn
 
-# Wechat
-USER-AGENT,MicroMessenger*
-USER-AGENT,WeChat*
-DOMAIN-SUFFIX,qlogo.cn
-DOMAIN-SUFFIX,qpic.cn
-DOMAIN-SUFFIX,weixin.qq.com
-DOMAIN-SUFFIX,wxapp.tc.qq.com
-DOMAIN-SUFFIX,servicewechat.com
-DOMAIN-SUFFIX,tenpay.com
-DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,wechatlegal.net
-DOMAIN-SUFFIX,wechatpay.com
-DOMAIN-SUFFIX,weixin.com
-DOMAIN-SUFFIX,weixinbridge.com
-DOMAIN-SUFFIX,weixinsxy.com
-IP-CIDR,101.32.104.4/32,no-resolve
-IP-CIDR,101.32.104.41/32,no-resolve
-IP-CIDR,101.32.104.56/32,no-resolve
-IP-CIDR,101.32.118.25/32,no-resolve
-IP-CIDR,101.32.133.16/32,no-resolve
-IP-CIDR,101.32.133.53/32,no-resolve
-IP-CIDR,101.32.133.209/32,no-resolve
-IP-CIDR,129.226.3.47/32,no-resolve
-IP-CIDR,129.226.107.244/32,no-resolve
-
 # 萤石
 DOMAIN-SUFFIX,ys7.com
-
-# PDD
-DOMAIN-SUFFIX,pddpic.com
-DOMAIN-SUFFIX,pinduoduo.com
-DOMAIN-SUFFIX,pinduoduo.net
-DOMAIN-SUFFIX,yangkeduo.com
-
-# Tencent
-DOMAIN-SUFFIX,foxmail.com
-DOMAIN-SUFFIX,gtimg.com
-DOMAIN-SUFFIX,idqqimg.com
-DOMAIN-SUFFIX,igamecj.com
-DOMAIN-SUFFIX,myapp.com
-DOMAIN-SUFFIX,myqcloud.com
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,qqmail.com
-DOMAIN-SUFFIX,qqurl.com
-DOMAIN-SUFFIX,smtcdns.com
-DOMAIN-SUFFIX,smtcdns.net
-DOMAIN-SUFFIX,soso.com
-DOMAIN-SUFFIX,tencent-cloud.net
-DOMAIN-SUFFIX,tencent.com
-DOMAIN-SUFFIX,tencentmind.com
-DOMAIN-SUFFIX,tenpay.com
-DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,weixin.com
-DOMAIN-SUFFIX,weiyun.com
-DOMAIN-SUFFIX,riotcdn.net
-DOMAIN-SUFFIX,wr.pvp.net
-DOMAIN-SUFFIX,riotgames.com
-DOMAIN-SUFFIX,v.smtcdns.com
-DOMAIN-SUFFIX,vv.video.qq.com
-
-# Alibaba
-DOMAIN-SUFFIX,1688.com
-DOMAIN-SUFFIX,aliapp.org
-DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,alibabacloud.com
-DOMAIN-SUFFIX,alibabausercontent.com
-DOMAIN-SUFFIX,alicdn.com
-DOMAIN-SUFFIX,alicloudccp.com
-DOMAIN-SUFFIX,aliexpress.com
-DOMAIN-SUFFIX,aliimg.com
-DOMAIN-SUFFIX,alikunlun.com
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,alipayobjects.com
-DOMAIN-SUFFIX,alisoft.com
-DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,aliyuncdn.com
-DOMAIN-SUFFIX,aliyuncs.com
-DOMAIN-SUFFIX,aliyundrive.com
-DOMAIN-SUFFIX,aliyundrive.net
-DOMAIN-SUFFIX,amap.com
-DOMAIN-SUFFIX,autonavi.com
-DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,ele.me
-DOMAIN-SUFFIX,hichina.com
-DOMAIN-SUFFIX,mmstat.com
-DOMAIN-SUFFIX,mxhichina.com
-DOMAIN-SUFFIX,soku.com
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,taobaocdn.com
-DOMAIN-SUFFIX,tbcache.com
-DOMAIN-SUFFIX,tbcdn.com
-DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,tmall.hk
-DOMAIN-SUFFIX,ucweb.com
-DOMAIN-SUFFIX,xiami.com
-DOMAIN-SUFFIX,xiami.net
-DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,youku.com
-
-# Xiaohongshu
-DOMAIN-SUFFIX,xiaohongshu.com
-DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,xhscdn.net
-DOMAIN-SUFFIX,redbascket.com
-DOMAIN-SUFFIX,fengkongcloud.com
 
 # OneDrive
 DOMAIN-SUFFIX,storage.live.com
@@ -145,8 +43,7 @@ DOMAIN-SUFFIX,api.onedrive.com
 # Others
 DOMAIN-SUFFIX,ccddn4.icu
 DOMAIN-SUFFIX,clashcloud.tech
-DOMAIN-SUFFIX,linksys.com
-DOMAIN-SUFFIX,linksyssmartwifi.com
 DOMAIN,finds.synology.com
 DOMAIN-SUFFIX,fishfishlab.top
 DOMAIN-SUFFIX,jeffreyyu.top
+
