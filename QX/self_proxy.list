@@ -113,15 +113,3 @@ IP-CIDR,208.43.122.128/27,Self-Proxy
 # TeraBox
 DOMAIN-SUFFIX,terabox.com,Self-Proxy
 DOMAIN-SUFFIX,teraboxcdn.com,Self-Proxy
-
-# AppleIntelligence
-DOMAIN-SUFFIX, gateway.icloud.com,Self-Proxy
-DOMAIN-SUFFIX, apple-relay.apple.com,Self-Proxy
-DOMAIN-SUFFIX, apple-relay.fastly-edge.com,Self-Proxy
-DOMAIN-SUFFIX, apple-relay.cloudflare.com,Self-Proxy
-DOMAIN-SUFFIX, guzzoni.apple.com,Self-Proxy
-DOMAIN-SUFFIX, cp4.cloudflare.com,Self-Proxy
-DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com,Self-Proxy
-DOMAIN-SUFFIX, smoot.apple.com,Self-Proxy
-DOMAIN-SUFFIX, apple-relay.akamaized.net,Self-Proxy
-DOMAIN-SUFFIX, apple-relay.mask.apple-dns.net,Self-Proxy
