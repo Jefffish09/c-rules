@@ -32,3 +32,7 @@ DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
+
+# V2EX
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,v2ex.co
