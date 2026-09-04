@@ -12,47 +12,6 @@ DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerhub.com
 
-# Threads
-DOMAIN-SUFFIX,threads.net
-
-# serverfault
-DOMAIN-SUFFIX,serverfault.com
-
-# V2EX
-DOMAIN-SUFFIX,v2ex.co
-
-# Vercel
-DOMAIN-SUFFIX,err.sh
-DOMAIN-SUFFIX,hyper.is
-DOMAIN-SUFFIX,nextjs.org
-DOMAIN-SUFFIX,now.sh
-DOMAIN-SUFFIX,static.fun
-DOMAIN-SUFFIX,title.sh
-DOMAIN-SUFFIX,turborepo.org
-DOMAIN-SUFFIX,vercel-analytics.com
-DOMAIN-SUFFIX,vercel-dns.com
-DOMAIN-SUFFIX,vercel-insights.com
-DOMAIN-SUFFIX,vercel-status.com
-DOMAIN-SUFFIX,vercel.app
-DOMAIN-SUFFIX,vercel.blog
-DOMAIN-SUFFIX,vercel.com
-DOMAIN-SUFFIX,vercel.events
-DOMAIN-SUFFIX,vercel.link
-DOMAIN-SUFFIX,vercel.live
-DOMAIN-SUFFIX,vercel.pub
-DOMAIN-SUFFIX,vercel.sh
-DOMAIN-SUFFIX,vercel.store
-DOMAIN-SUFFIX,zeit-world.co.uk
-DOMAIN-SUFFIX,zeit-world.com
-DOMAIN-SUFFIX,zeit-world.net
-DOMAIN-SUFFIX,zeit-world.org
-DOMAIN-SUFFIX,zeit.co
-DOMAIN-SUFFIX,zeit.sh
-DOMAIN-SUFFIX,zeitworld.com
-
-# Upstash
-DOMAIN-SUFFIX,upstash.com
-
 # Zoom
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,zoomgov.com
@@ -83,14 +42,6 @@ DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,ypncdn.com
-
-# Discord
-DOMAIN-SUFFIX,discord.co
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discord.gg
-DOMAIN-SUFFIX,discord.media
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
 
 # Whatsapp
 DOMAIN-KEYWORD,whatsapp
