@@ -12,47 +12,6 @@ DOMAIN-SUFFIX,docker.com,Self-Proxy
 DOMAIN-SUFFIX,docker.io,Self-Proxy
 DOMAIN-SUFFIX,dockerhub.com,Self-Proxy
 
-# Threads
-DOMAIN-SUFFIX,threads.net,Self-Proxy
-
-# serverfault
-DOMAIN-SUFFIX,serverfault.com,Self-Proxy
-
-# V2EX
-DOMAIN-SUFFIX,v2ex.co,Self-Proxy
-
-# Vercel
-DOMAIN-SUFFIX,err.sh,Self-Proxy
-DOMAIN-SUFFIX,hyper.is,Self-Proxy
-DOMAIN-SUFFIX,nextjs.org,Self-Proxy
-DOMAIN-SUFFIX,now.sh,Self-Proxy
-DOMAIN-SUFFIX,static.fun,Self-Proxy
-DOMAIN-SUFFIX,title.sh,Self-Proxy
-DOMAIN-SUFFIX,turborepo.org,Self-Proxy
-DOMAIN-SUFFIX,vercel-analytics.com,Self-Proxy
-DOMAIN-SUFFIX,vercel-dns.com,Self-Proxy
-DOMAIN-SUFFIX,vercel-insights.com,Self-Proxy
-DOMAIN-SUFFIX,vercel-status.com,Self-Proxy
-DOMAIN-SUFFIX,vercel.app,Self-Proxy
-DOMAIN-SUFFIX,vercel.blog,Self-Proxy
-DOMAIN-SUFFIX,vercel.com,Self-Proxy
-DOMAIN-SUFFIX,vercel.events,Self-Proxy
-DOMAIN-SUFFIX,vercel.link,Self-Proxy
-DOMAIN-SUFFIX,vercel.live,Self-Proxy
-DOMAIN-SUFFIX,vercel.pub,Self-Proxy
-DOMAIN-SUFFIX,vercel.sh,Self-Proxy
-DOMAIN-SUFFIX,vercel.store,Self-Proxy
-DOMAIN-SUFFIX,zeit-world.co.uk,Self-Proxy
-DOMAIN-SUFFIX,zeit-world.com,Self-Proxy
-DOMAIN-SUFFIX,zeit-world.net,Self-Proxy
-DOMAIN-SUFFIX,zeit-world.org,Self-Proxy
-DOMAIN-SUFFIX,zeit.co,Self-Proxy
-DOMAIN-SUFFIX,zeit.sh,Self-Proxy
-DOMAIN-SUFFIX,zeitworld.com,Self-Proxy
-
-# Upstash
-DOMAIN-SUFFIX,upstash.com,Self-Proxy
-
 # Zoom
 DOMAIN-SUFFIX,zoom.us,Self-Proxy
 DOMAIN-SUFFIX,zoomgov.com,Self-Proxy
@@ -83,14 +42,6 @@ DOMAIN-SUFFIX,xnxx.com,Self-Proxy
 DOMAIN-SUFFIX,xvideos-cdn.com,Self-Proxy
 DOMAIN-SUFFIX,xvideos.com,Self-Proxy
 DOMAIN-SUFFIX,ypncdn.com,Self-Proxy
-
-# Discord
-DOMAIN-SUFFIX,discord.co,Self-Proxy
-DOMAIN-SUFFIX,discord.com,Self-Proxy
-DOMAIN-SUFFIX,discord.gg,Self-Proxy
-DOMAIN-SUFFIX,discord.media,Self-Proxy
-DOMAIN-SUFFIX,discordapp.com,Self-Proxy
-DOMAIN-SUFFIX,discordapp.net,Self-Proxy
 
 # Whatsapp
 DOMAIN-KEYWORD,whatsapp,Self-Proxy
